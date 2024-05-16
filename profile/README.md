@@ -1,7 +1,7 @@
 <h1 align="center">
 </h1>
-
-<p align="center">Bem vindo a BrightGames<br/> <b>Web</b> (React, StyledComponents, ANTD)<br/><b>Back-End</b> (NodeJS, Express, PostgreSQL)
+<img src="https://i.imgur.com/jpMLCYZ.png" width="244px"/>
+<p align="center">Bem vindo a BeesGaming<br/> <b>Web</b> (React, StyledComponents, ANTD)<br/><b>Back-End</b> (NodeJS, Express, PostgreSQL)
 
 <!-- - [About us](#about-us) -->
 
